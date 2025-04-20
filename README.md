@@ -13,14 +13,3 @@ This is a simple **Employee Management System** built using **C++ Standard Templ
 - 🥇 Find the highest-paid employee  
 
 ---
-
-## 📁 Code Overview
-
-### ✅ Data Structure
-
-```cpp
-struct Employee {
-    int id;
-    string name;
-    double salary;
-};
